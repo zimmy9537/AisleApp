@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AisleApp</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="Continue">Continue</string>
+    <string name="enter_the_otp">Enter The Otp</string>
+    <string name="discover">Discover</string>
+    <string name="notes">Notes</string>
+    <string name="matches">Matches</string>
+    <string name="profile">Profile</string>
+</resources>
